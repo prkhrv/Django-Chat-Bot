@@ -10,3 +10,15 @@
  ```
  python manage.py runserver
  ```
+ 
+ ## Migrate
+ 
+ ```
+ python manage.py migrate --run-syncdb
+ ```
+ 
+ ## Create Super User
+ 
+ ```
+ python manage.py createsuperuser
+ ```
